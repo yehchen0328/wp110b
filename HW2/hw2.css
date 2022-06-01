@@ -1,0 +1,16 @@
+body {
+    background-color: darkgray;
+    text-align: center;
+}
+h3 {
+    background-color:rgb(161, 5, 36);
+    border-style: inset;
+    width: fit-content;
+    display: inline-block;
+}
+h4{
+    background-color: rgb(161, 5, 36);
+    border-style: inset;
+    width: fit-content;
+    display: inline-block;
+}
