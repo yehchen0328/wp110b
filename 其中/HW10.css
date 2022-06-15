@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(221, 214, 214);
+    text-align: center;
+}
+
+h3 {
+    background-color:rgb(209, 113, 24);
+    border-style: inset;
+    width: fit-content;
+    display: inline-block;
+}
+h4{
+    background-color: rgb(209, 110, 28);
+    border-style: inset;
+    width: fit-content;
+    display: inline-block;
+}
